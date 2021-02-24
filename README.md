@@ -1,4 +1,4 @@
-# wycloudmusic
+# VUE-music
 
 ## Project setup
 ```
